@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5518
     wikipedia: http://en.wikipedia.org/wiki/Sir_John_Barrow%2C_1st_Baronet
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14424#The-Eventful-History-of-the-Mutiny-and-Piratical-Seizure-of-H.M.S.-Bounty--Its-Cause-and-Cons_
 gutenberg_issued: '2004-12-23'
 gutenberg_type: Text
 identifiers:
